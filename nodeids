@@ -1,0 +1,8 @@
+[
+  "tests/test_api.py::test_bad_image",
+  "tests/test_api.py::test_bad_mode",
+  "tests/test_api.py::test_detector_service_error",
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_ocr_shape",
+  "tests/test_api.py::test_unsupported_type"
+]

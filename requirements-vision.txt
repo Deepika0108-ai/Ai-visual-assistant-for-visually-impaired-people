@@ -1,0 +1,5 @@
+# Optional AI models; large downloads may be required.
+ultralytics>=8.3
+transformers>=4.44
+torch>=2.2
+torchvision>=0.17
